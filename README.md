@@ -5,5 +5,5 @@ Monte Carlo methods are particularly useful for model-free reinforcement learnin
 
 ### Ouput
 <p>
-<img src="ouput.png" width="874"/>
+<img src="output.png" width="874"/>
 </p>
